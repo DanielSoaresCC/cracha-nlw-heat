@@ -1,6 +1,6 @@
 const linksSocialMedia = {
   github: 'DanielSoaresCC',
-  youtube: 'DanielSoares',
+  youtube: 'channel/UCA_tFnAbZJUlpWwMlSVDaOw',
   instagram: 'dsoareso',
   facebook: 'daniel.soares.9480',
   twitter: 'danielsoares153'
